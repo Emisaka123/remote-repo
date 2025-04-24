@@ -1,0 +1,2 @@
+sudo gedit /boot/grub/grub.cfg
+
